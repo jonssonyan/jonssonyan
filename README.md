@@ -1,11 +1,16 @@
 # Hi there, I'm Jonsson 👋
 
-Full-stack developer, UI/UX builder, and indie hacker crafting high-performance iOS & Android apps. Currently building in public on the road to **$10k/month** startup revenue.
+Full-stack developer, UI/UX builder, and indie hacker. Currently building in public on the road to **$10k MRR**.
 
-### 🚀 What I'm Building (AI Apps)
+### 🚀 What I'm Building
 
-- 🎨 **[Luvora on App Store](https://apps.apple.com/app/id6780738039)** - AI soulmate generator & portrait sketching with personality insights.
-- 💇‍♂️ **[HairTry on App Store](https://apps.apple.com/app/id6761591823)** - Hyper-realistic AI hairstyle simulator & virtual hair color try-on app.
+- 🎨 **Luvora** - AI soulmate generator & portrait sketching with personality insights.
+  - 🍎 [Download for iOS](https://apps.apple.com/app/id6780738039)
+  - 🤖 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.designany.luvora)
+
+- 💇‍♂️ **HairTry** - Hyper-realistic AI hairstyle simulator & virtual hair color try-on app.
+  - 🍎 [Download for iOS](https://apps.apple.com/app/id6761591823)
+  - 🤖 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.designany.hairtry)
 
 ### 🛠️ Tech Stack & Architecture
 
