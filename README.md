@@ -1,33 +1,26 @@
 # Hi there, I'm Jonsson 👋
 
-I'm a full-stack developer, UI/UX enthusiast, and indie hacker on a mission to build beautiful, high-performance software that people love. 
-
-⚡ Currently on the road to **$10k/month** through independent hacking.
+Full-stack developer & indie hacker crafting high-performance apps. Currently on the road to **$10k/month**.
 
 ---
 
-### 🚀 What I'm Building (Founder of DesignAny)
+### 🚀 What I'm Building
 
-- **[Luvora](apps.apple.com/app/id6780738039)** - Soulmate Drawing
-- **[HairTry](apps.apple.com/app/id6761591823)** - AI Hairstyle Try-On
+- 🎨 **[Luvora](https://apps.apple.com/app/id6780738039)** - AI soulmate drawing & personality insights.
+- 💇‍♂️ **[HairTry](https://apps.apple.com/app/id6761591823)** - AI hairstyle & hair color try-on simulator.
 
 ---
 
-### 🛠️ Tech Stack & Architecture Preferences
+### 🛠️ Tech Stack
 
-I believe in high performance, modern network protocols, and the "zero-dollar startup stack" for building robust, scalable systems:
-
-- **Frontend & Mobile:** Next.js, React Native, Expo SDK, Tailwind CSS
-- **Backend & Systems:** Go (Golang), Python
-- **Cloud & Infrastructure:** Cloudflare Workers & R2 (Serverless architecture), Docker
+- **Frontend & Mobile:** Next.js, React Native, Expo SDK
+- **Backend & Infra:** Go (Golang), Python, Cloudflare Workers & R2, Docker
 
 ---
 
 ### 💬 Connect with me
 
-*   **Twitter / X:** [@jonssonyan](https://x.com/jonssonyan)
-*   **Personal Blog:** [jonssonyan.com](https://jonssonyan.com)
-*   **YouTube:** [@jonssonyan](https://youtube.com/@jonssonyan)
-*   **Email:** [yz808@outlook.com](mailto:yz808@outlook.com)
-
-*"The best way to predict the future is to build it."*
+- **Twitter / X:** [@jonssonyan](https://x.com/jonssonyan)
+- **YouTube:** [@jonssonyan](https://youtube.com/@jonssonyan)
+- **Blog:** [jonssonyan.com](https://jonssonyan.com)
+- **Telegram:** [@jonssonyan_channel](https://t.me/jonssonyan_channel)
