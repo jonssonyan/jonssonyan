@@ -1,6 +1,6 @@
 # Hi there, I'm Jonsson 👋
 
-Full-stack developer, UI/UX designer, and indie hacker. Currently building in public on the road to **$10k MRR**.
+Full-stack developer, UI/UX designer, and indie hacker.
 
 ### 🚀 What I'm Building
 
